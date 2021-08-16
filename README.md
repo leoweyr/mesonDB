@@ -12,6 +12,12 @@ meson是一个为python程序服务的本地化非关系数据库系统模块，
 
 QQ号：2516427163
 
+##  开源项目镜像
+
+某些代码或说明无法查看时，可前往镜像
+
+中国：[Gitee](https://gitee.com/leoweyr/mesonDB)
+
 ## 模块调用
 
 ```python
