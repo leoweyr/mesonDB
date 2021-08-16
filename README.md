@@ -16,7 +16,7 @@ QQ号：2516427163
 
 某些代码或说明无法查看时，可前往镜像
 
-中国：[Gitee](https://gitee.com/leoweyr/mesonDB)
+中国：[Gitee](https://gitee.com/leoweyr/mesonDB) | 外国：[Github](https://github.com/leoweyr/mesonDB)
 
 ## 模块调用
 
