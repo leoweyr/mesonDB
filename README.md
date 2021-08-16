@@ -16,7 +16,7 @@ QQ号：2516427163
 
 ```python
 import mesonDB.meson
-#“mesonDB”文件夹放在主程序根目录
+#“mesonDB”文件夹放在主程序根目录，“meson.py”放在该目录下
 ```
 
 ## 函数调用
